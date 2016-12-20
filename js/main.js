@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $('[data-toggle="popover"]').popover();
+    //To do..... $('[data-toggle="popover"]').popover();
 
     //Search WhiteDiv
 
@@ -37,19 +37,3 @@ $(document).ready(function(){
 });
 
 
-// function openNav(){
-// 	document.getElementById("mysidebar2").style.opacity = "1";
-// 	document.getElementById("mysidebar2").style.width = "250px";
-	
-// }
-// function closeNav(){
-// 	document.getElementById("mysidebar2").style.opacity = "0";
-// 	document.getElementById("mysidebar2").style.width = "0px";
-	
-// }
-
-// function placeH(){
-	
-// 	document.getElementsByName("search")[0].placeholder="Name, email or phone number";
-// 	document.getElementById("close11").style.opacity = "1";
-// }
